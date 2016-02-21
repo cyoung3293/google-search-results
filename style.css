@@ -1,0 +1,67 @@
+body {
+	font-size: 14px;
+}
+
+.logoContainer {
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+#logo {
+	padding-left: 345px;
+	padding-top: 95px;
+}
+
+.header {
+	position: absolute;
+	top: 0px;
+	right: 15px;
+	list-style-type: none;
+}
+
+
+
+.headerButton {
+	display: inline;
+	text-align: center;
+	padding: 7px 8px;
+	
+}
+
+.navBar {
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navBar input {
+	width: 525px;
+	height: 26px;
+	margin-left: 227px;
+	margin-right: auto;
+}
+
+.bottomFooter {
+	background-color: #f2f2f2;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+.bottomFooter li {
+	float: left;
+}
+
+.bottomFooter li a{
+	display: block;
+	color: #736e9a;
+	text-align: center;
+	padding: 7px 10px;
+	text-decoration: none;
+}
+
